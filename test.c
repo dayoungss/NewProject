@@ -1,4 +1,5 @@
 #include<stdio.h>
 int main(){
-	printf("오픈소스 기반설계");
+	printf("오픈소스기반설계\n");
+	printf("오픈소스기반설계\n");
 }
